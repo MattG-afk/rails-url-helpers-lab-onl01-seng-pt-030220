@@ -207,4 +207,8 @@ DEPENDENCIES
   uglifier (>= 1.3.0)
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.1.4
+=======
+   2.0.1
+>>>>>>> 4ba957f264b72e0cf3af23f999f36a595aa7b6da
